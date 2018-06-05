@@ -15,5 +15,10 @@ truffle develop
 
 ## deploy contract to Ganache
 ```shell
-truffle migrate --network development
+truffle migrate --network ganache
+```
+
+## deploy contract to INFRA
+```shell
+truffle migrate --network infra
 ```
