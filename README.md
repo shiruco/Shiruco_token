@@ -12,9 +12,3 @@ truffle compile
 ```shell
 truffle develop
 ```
-
-## deploy contract
-```shell
-truffle develop
-```
-
