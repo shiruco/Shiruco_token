@@ -12,3 +12,8 @@ truffle compile
 ```shell
 truffle develop
 ```
+
+## deploy contract to Ganache
+```shell
+truffle migrate --network development
+```
