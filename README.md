@@ -1,1 +1,20 @@
-# Shiruco_token
+## install npm modules
+```shell
+npm install
+```
+
+## compile Solidity code
+```shell
+truffle compile
+```
+
+## deploy contract
+```shell
+truffle develop
+```
+
+## deploy contract
+```shell
+truffle develop
+```
+
