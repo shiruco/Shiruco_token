@@ -18,7 +18,7 @@ truffle develop
 truffle migrate --network ganache
 ```
 
-## deploy contract to INFRA
+## deploy contract to INFURA
 ```shell
 truffle migrate --network infra
 ```
